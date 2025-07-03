@@ -1,0 +1,17 @@
+{
+    "livros": [
+        {
+            "titulo": "teste",
+            "autor": "teste",
+            "ano": "1009",
+            "disponivel": false
+        }
+    ],
+    "usuarios": [
+        {
+            "nome": "usuario",
+            "cpf": "12345678910",
+            "livro_emprestado": "teste"
+        }
+    ]
+}
